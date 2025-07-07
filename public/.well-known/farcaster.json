@@ -1,0 +1,34 @@
+{
+  
+    "accountAssociation": {
+      "header": "eyJmaWQiOjYyODE2NywidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDc1N0YxNTA4NzZBMTlkODc4MjQyNDE2YzE4MDQwMjBGQjJEQzE2REIifQ",
+      "payload": "eyJkb21haW4iOiJzb25nY2FzdC52ZXJjZWwuYXBwIn0",
+      "signature": "MHhkZDNmNzMxMTYxNzZkZGFhN2M2MTkyZjRlZWUzZDQwMTEwZWNhODUxYWQxZTRiZTczM2YxZDY3NWM2NGY5NjBiNDczN2VmZDExNDc3YTkxZWVkNDA2NWU2MTJlZDkwZTQ5YWRjODkwNjBhZDVlMTgwOGEzNjI3MmRkZTZmMmQzNjFi"
+    }
+  ,
+  "frame": {
+    "version": "1",
+    "name": "SongCast",
+    "iconUrl": "https://songcast.vercel.app/icon.png",
+    "homeUrl": "https://songcast.vercel.app/miniapp",
+    "imageUrl": "https://songcast.vercel.app/image.png",
+    "buttonTitle": "Explore Music Coins",
+    "splashImageUrl": "https://songcast.vercel.app/logo.png",
+    "splashBackgroundColor": "#000000",
+    "subtitle": "Music Social Tokens",
+    "description": "Create, trade, and collect social tokens for music artists on SongCast, connecting fans directly with their favorite musicians.",
+    "primaryCategory": "music",
+    "tags": [
+      "music",
+      "tokens",
+      "social",
+      "artists",
+      "web3"
+    ],
+    "heroImageUrl": "https://songcast.vercel.app/logo.png",
+    "tagline": "Invest in the artists you love",
+    "ogTitle": "songcast",
+    "ogDescription": "Create, trade, and collect social tokens for your favorite music artists.",
+    "ogImageUrl": "https://songcast.vercel.app/logo.png"
+  }
+} 

@@ -1,0 +1,66 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Next.js
+/.next/
+/out/
+
+# Production
+/build
+
+# Misc
+.DS_Store
+*.pem
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local env files
+.env*.local
+.env
+.env.production
+
+# Vercel
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+
+# Logs
+logs
+*.log
+
+# API Keys and Secrets (extra protection)
+**/api-keys.*
+**/secrets.*
+**/.env*
+!**/.env.example
+!**/.env.template
+
+# Build artifacts that might contain secrets
+dist/
+build/
+*.map
+
+# Markdown files (except README.md) - For hackathon submission
+*.md
+!README.md
+
+# Other documentation that should not be public
+API_SETUP.txt
+here.txt

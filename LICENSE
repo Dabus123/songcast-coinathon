@@ -1,0 +1,46 @@
+SongCast Proprietary License
+Copyright (c) 2024 SongCast Development Team
+
+HACKATHON EVALUATION LICENSE
+
+This software and associated documentation files (the "Software") are made 
+available for hackathon judging and evaluation purposes only.
+
+PERMITTED USES:
+- Review and evaluation by hackathon judges and organizers
+- Educational study of implementation patterns and techniques
+- Testing and demonstration of functionality
+- Academic research and citation with proper attribution
+
+PROHIBITED USES:
+- Commercial use, including but not limited to:
+  * Deploying competing platforms or services
+  * Incorporating core business logic into commercial products
+  * Selling or licensing any portion of the software
+- Redistribution of the complete codebase or substantial portions
+- Creating derivative works for commercial purposes
+- Removing or modifying this license notice
+
+PROPRIETARY COMPONENTS:
+The following represent significant innovation and development investment:
+- Passive investment algorithm and timing mechanisms
+- Zora protocol integration patterns and optimization strategies
+- Cross-platform synchronization architecture
+- Automated market-making and trading logic
+- Advanced analytics and data processing systems
+
+DISCLAIMER:
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+CONTACT:
+For licensing inquiries, partnerships, or collaboration opportunities, 
+please contact the development team through the hackathon organizers.
+
+This license shall be governed by and construed in accordance with the laws
+of the jurisdiction where the hackathon is held. 

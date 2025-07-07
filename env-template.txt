@@ -1,0 +1,93 @@
+# SongCast Environment Configuration Template
+# Copy this to .env.local and configure with your own values
+
+# ==========================================
+# FOR HACKATHON JUDGES: REQUIRED VARIABLES
+# ==========================================
+
+# IPFS Storage via Pinata (Required for music uploads)
+# Get free API keys at: https://pinata.cloud
+NEXT_PUBLIC_PINATA_API_KEY=your_pinata_api_key_here
+NEXT_PUBLIC_PINATA_SECRET_KEY=your_pinata_secret_key_here
+NEXT_PUBLIC_PINATA_GATEWAY=https://gateway.pinata.cloud/ipfs/
+
+# ==========================================
+# OPTIONAL: ENHANCED PERFORMANCE VARIABLES
+# ==========================================
+
+# Premium Base RPC (Optional - Recommended for better performance)
+# Free tier may have rate limits. Get premium access from:
+# - Alchemy: https://alchemy.com/
+# - Infura: https://infura.io/
+# - QuickNode: https://quicknode.com/
+# Example: NEXT_PUBLIC_BASE_RPC=https://base-mainnet.g.alchemy.com/v2/YOUR_API_KEY
+NEXT_PUBLIC_BASE_RPC=
+
+# Zora API Key (Optional - For increased rate limits)
+# Contact Zora for API access: https://zora.co
+NEXT_PUBLIC_ZORA_API_KEY=
+
+# OnchainKit API Key (Optional - Enhanced Base integration)
+# Get from: https://onchainkit.xyz
+NEXT_PUBLIC_ONCHAINKIT_API_KEY=
+
+# ==========================================
+# ADVANCED: PASSIVE INVESTMENT SYSTEM
+# ==========================================
+
+# WARNING: These enable automated trading features
+# Only configure if you want to test passive investment
+# Requires separate wallet for automated transaction execution
+
+# Private key for automated trading wallet (Advanced users only)
+# Generate new wallet: Use MetaMask or hardware wallet to generate
+# This wallet needs small ETH balance for gas fees
+# Example: SPENDER_PRIVATE_KEY=0x1234567890abcdef...
+SPENDER_PRIVATE_KEY=
+
+# Public address of the spender wallet (Must match private key above)
+# This address receives spend permissions from users
+# Example: NEXT_PUBLIC_SPENDER_ADDRESS=0x1234567890123456789012345678901234567890
+NEXT_PUBLIC_SPENDER_ADDRESS=
+
+# ==========================================
+# JUDGE TESTING RECOMMENDATIONS
+# ==========================================
+
+# For safe testing:
+# 1. Use Base Sepolia testnet initially
+# 2. Get testnet ETH from Base faucet
+# 3. Start with PINATA keys only for basic functionality
+# 4. Add premium RPC for better performance
+# 5. Configure passive investment only for advanced testing
+
+# For production testing:
+# 1. Use very small amounts (0.00001 ETH or less)
+# 2. Monitor all transactions on BaseScan
+# 3. Test spend permission revocation
+# 4. Verify token delivery to your wallet
+
+# ==========================================
+# SECURITY NOTES
+# ==========================================
+
+# - Never commit .env.local to version control
+# - Private keys should only be for test wallets
+# - Use separate wallets for testing vs production
+# - Monitor spending limits and revoke after testing
+# - All transactions are visible on blockchain
+
+# ==========================================
+# DEVELOPMENT SETUP INSTRUCTIONS
+# ==========================================
+
+# 1. Copy this file: cp env-template.txt .env.local
+# 2. Configure at minimum the PINATA variables
+# 3. Restart your development server: npm run dev
+# 4. Test basic functionality before adding advanced features
+# 5. Check console for any missing configuration warnings
+
+# For questions or issues:
+# - Check README.md for detailed documentation
+# - Review DEPLOYMENT_NOTES.md for additional guidance
+# - Contact through hackathon organizers for support 
