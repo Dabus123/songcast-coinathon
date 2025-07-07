@@ -7,15 +7,6 @@
 
 > **🏆 Hackathon Submission**: A revolutionary platform enabling music artists to create social tokens, build communities, and allow fans to invest directly in their musical journey through automated passive investment strategies.
 
-## 🛡️ **Security Notice for Judges**
-
-**✅ This codebase has been security audited and is safe for public review.**
-
-- **No API keys or secrets** are hardcoded in the source code
-- **No private keys** are exposed in any files
-- **Complete audit report** available in [`SECURITY_AUDIT.md`](./SECURITY_AUDIT.md)
-- **All sensitive configuration** handled through environment variables
-
 ## 🚀 **What Makes SongCast Special**
 
 SongCast reimagines the music industry by combining **social tokens**, **passive investment automation**, and **decentralized music streaming** into a single platform that benefits both artists and fans.
