@@ -156,13 +156,13 @@ const tradeParams = {
 - **Demo Wallet**: Connect with Base 
 ### **Local Development Setup**
 
-```bash
+   ```bash
 # Clone the repository
 git clone https://github.com/your-username/songcast
 cd songcast/music
 
 # Install dependencies
-npm install
+   npm install
 
 # Environment setup (see below)
 cp env-template.txt .env.local
@@ -177,8 +177,8 @@ Create `.env.local` with the following (template provided in `env-template.txt`)
 
 ```bash
 # Pinata IPFS (Required for music storage)
-NEXT_PUBLIC_PINATA_API_KEY=your_pinata_api_key
-NEXT_PUBLIC_PINATA_SECRET_KEY=your_pinata_secret_key
+   NEXT_PUBLIC_PINATA_API_KEY=your_pinata_api_key
+   NEXT_PUBLIC_PINATA_SECRET_KEY=your_pinata_secret_key
 
 # Zora API (Optional - for rate limit increases)
 NEXT_PUBLIC_ZORA_API_KEY=your_zora_api_key
