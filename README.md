@@ -1,9 +1,9 @@
 # 🎵 SongCast - Music Social Tokens Platform
 
-[![Built on Base](https://img.shields.io/badge/Built%20on-Base-blue?style=for-the-badge)](https://base.org)
-[![Powered by Zora](https://img.shields.io/badge/Powered%20by-Zora-purple?style=for-the-badge)](https://zora.co)
-[![Farcaster Integration](https://img.shields.io/badge/Farcaster-Mini%20App-green?style=for-the-badge)](https://farcaster.xyz)
-[![Security Audited](https://img.shields.io/badge/Security-Audited-success?style=for-the-badge)](./SECURITY_AUDIT.md)
+[![Built on Base](https://img.shields.io/badge/Built%20on-Base-blue?style=for-the-badge)](https://docs.base.org)
+[![Powered by Zora](https://img.shields.io/badge/Powered%20by-Zora-purple?style=for-the-badge)](https://docs.zora.co)
+[![Farcaster Miniapp](https://img.shields.io/badge/Farcaster-Mini%20App-green?style=for-the-badge)]([https://farcaster.xyz](https://farcaster.xyz/miniapps/mYB-AY4azNE5/songcast))
+[![Browser App](https://img.shields.io/badge/Farcaster-Mini%20App-green?style=for-the-badge)]([https://farcaster.xyz](https://songcast.xyz))
 
 > **🏆 Hackathon Submission**: A revolutionary platform enabling music artists to create social tokens, build communities, and allow fans to invest directly in their musical journey through automated passive investment strategies.
 
