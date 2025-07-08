@@ -2,8 +2,8 @@
 
 [![Built on Base](https://img.shields.io/badge/Built%20on-Base-blue?style=for-the-badge)](https://docs.base.org)
 [![Powered by Zora](https://img.shields.io/badge/Powered%20by-Zora-purple?style=for-the-badge)](https://docs.zora.co)
-[![Farcaster Miniapp](https://img.shields.io/badge/Farcaster-Mini%20App-green?style=for-the-badge)]([https://farcaster.xyz](https://farcaster.xyz/miniapps/mYB-AY4azNE5/songcast))
-[![Browser App](https://img.shields.io/badge/Browser-%20App-yellow?style=for-the-badge)]([https://songcast.xyz](https://songcast.xyz))
+[![Farcaster Miniapp](https://img.shields.io/badge/Farcaster-Mini%20App-green?style=for-the-badge)](https://farcaster.xyz/miniapps/mYB-AY4azNE5/songcast))
+[![Browser App](https://img.shields.io/badge/Browser-%20App-yellow?style=for-the-badge)](https://songcast.xyz))
 
 > **🏆 Hackathon Submission**: A revolutionary platform enabling music artists to create social tokens, build communities, and allow fans to invest directly in their musical journey through automated passive investment strategies.
 
